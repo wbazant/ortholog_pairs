@@ -25,7 +25,9 @@ Orthologs: retrieved from BioMart
   - check the file is as expected and remove the header
 
 ### Reproduce example run
+```
 ./ortholog_pairs.pl ./example/schistosoma_mansoni.PRJEA36577.WBPS12.annotations.gff3 ./example/echinococcus_multilocularis.PRJEB122.WBPS12.annotations.gff3 ./example/schistosoma_mansoni-echinococcus_multilocularis.orthologs.tsv | sort -nr -k17 > ./example/out/schistosoma_mansoni-echinococcus_multilocularis.ortholog_pairs.out.sorted
+```
 
 ### Verifying results in WormBase ParaSite
 We want to verify that the pairs of orthologs are near each other.
