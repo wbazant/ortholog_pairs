@@ -10,7 +10,7 @@ my $genes_1 = read_gff($gff_1);
 my $genes_2 = read_gff($gff_2);
 
 my $orthologs = read_orthologs($orthologs_tsv);
-my @pairs = sort keys %{$orthologs};
+my @pairs = keys %{$orthologs};
 
 Q:
 for my $q (@pairs) {
@@ -19,7 +19,16 @@ for my $q (@pairs) {
      next Q if $p eq $q;
      my ($p1, $p2) = split "\t", $p;
      my ($q1, $q2) = split "\t", $q;
-     
+     my $tmp;
+     if ($genes_1->{$p1}{start} > $genes_1->{$q1}{start}){
+        # Orient the genes so that $p1 starts before $q1
+        $tmp = $p1;
+        $p1 = $q1;
+        $q1 = $tmp;
+        $tmp = $p2;
+        $p2 = $q2;
+        $q2 = $tmp;
+     }
      my ($in_distance_1, $out_distance_1) = in_out_distances($genes_1->{$p1}, $genes_1->{$q1});
      my $distance_measure_1 = ($in_distance_1 eq "Inf" or $out_distance_1 eq "Inf") ? 0 : 1 - $in_distance_1/$out_distance_1;
      next if $distance_measure_1 < 0.5; #Max allowed distance between the genes is the sum of their lengths
