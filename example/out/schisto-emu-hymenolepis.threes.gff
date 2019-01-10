@@ -1,0 +1,106 @@
+SM_V7_2	WormBase_imported	gene	28163786	28228078	.	-	.	ID=gene:Smp_012380;Name=Smp_012380;biotype=protein_coding;description=Putative potassium channel beta;description_source=UniProtKB/TrEMBL;description_source_acc=G4VC52
+SM_V7_2	WormBase_imported	gene	28236455	28241980	.	-	.	ID=gene:Smp_128810;Name=Smp_128810;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	28242053	28247860	.	-	.	ID=gene:Smp_012400;Name=Smp_012400;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	28248115	28254860	.	-	.	ID=gene:Smp_012410;Name=Smp_012410;biotype=protein_coding
+pathogen_EmW_scaffold_01	WormBase_imported	gene	7884037	7896612	.	-	.	ID=gene:EmuJ_000822300;Name=EmuJ_000822300;biotype=protein_coding;description=Voltage gated potassium channel subunit;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YE44
+pathogen_EmW_scaffold_01	WormBase_imported	gene	7898769	7905431	.	-	.	ID=gene:EmuJ_000822400;Name=EmuJ_000822400;biotype=protein_coding;description=Mannosyltransferase family protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YEI8
+pathogen_EmW_scaffold_01	WormBase_imported	gene	7906849	7907491	.	-	.	ID=gene:EmuJ_000822500;Name=EmuJ_000822500;biotype=protein_coding;description=Protein tyrosine phosphatase mitochondrial;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y7Y9
+pathogen_EmW_scaffold_01	WormBase_imported	gene	7907657	7909041	.	-	.	ID=gene:EmuJ_000822600;Name=EmuJ_000822600;biotype=protein_coding;description=28S ribosomal protein S22 mitochondrial;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YBI4
+HMN_01_pilon	WormBase_imported	gene	24172907	24183973	.	-	.	ID=gene:HmN_000891500;Name=HmN_000891500;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	24190606	24205375	.	-	.	ID=gene:HmN_000895100;Name=HmN_000895100;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	24205544	24208321	.	-	.	ID=gene:HmN_000895000;Name=HmN_000895000;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	24210744	24213008	.	-	.	ID=gene:HmN_003005500;Name=HmN_003005500;biotype=protein_coding
+
+SM_V7_4	WormBase_imported	gene	12890408	12893210	.	+	.	ID=gene:Smp_038630;Name=Smp_038630;biotype=protein_coding;description=Putative mitochondrial import inner membrane translocase subunit tim22;description_source=UniProtKB/TrEMBL;description_source_acc=G4VI93
+SM_V7_4	WormBase_imported	gene	12893258	12915256	.	+	.	ID=gene:Smp_340730;Name=Smp_340730;biotype=protein_coding
+SM_V7_4	WormBase_imported	gene	12916097	12931844	.	-	.	ID=gene:Smp_312760;Name=Smp_312760;biotype=protein_coding
+pathogen_EmW_scaffold_01	WormBase_imported	gene	4076050	4076779	.	+	.	ID=gene:EmuJ_000773900;Name=EmuJ_000773900;biotype=protein_coding;description=Mitochondrial import inner membrane translocase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y5U7
+pathogen_EmW_scaffold_01	WormBase_imported	gene	4076873	4080590	.	+	.	ID=gene:EmuJ_000774000;Name=EmuJ_000774000;biotype=protein_coding;description=Cactin protein cactus binding domain C terminal;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YCW4
+pathogen_EmW_scaffold_01	WormBase_imported	gene	4081141	4083457	.	-	.	ID=gene:EmuJ_000774050;Name=EmuJ_000774050;biotype=protein_coding;description=alpha-1,2-Mannosidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YD76
+HMN_01_pilon	WormBase_imported	gene	41573790	41574467	.	+	.	ID=gene:HmN_000041100;Name=HmN_000041100;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	41574562	41578866	.	+	.	ID=gene:HmN_000040900;Name=HmN_000040900;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	41579328	41582523	.	-	.	ID=gene:HmN_002132600;Name=HmN_002132600;biotype=protein_coding;description=alpha-1,2-Mannosidase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A0S4MMX0
+
+SM_V7_2	WormBase_imported	gene	32939938	32959219	.	-	.	ID=gene:Smp_045300;Name=Smp_045300;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	32964973	32975249	.	-	.	ID=gene:Smp_328350;Name=Smp_328350;biotype=protein_coding;description=D-aminoacyl-tRNA deacylase;description_source=UniProtKB/TrEMBL;description_source_acc=Q15ET1
+SM_V7_2	WormBase_imported	gene	32978666	33002909	.	-	.	ID=gene:Smp_146570;Name=Smp_146570;biotype=protein_coding
+pathogen_EmW_scaffold_01	WormBase_imported	gene	3158784	3172011	.	-	.	ID=gene:EmuJ_000767400;Name=EmuJ_000767400;biotype=protein_coding;description=Pdz domain containing protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YA13
+pathogen_EmW_scaffold_01	WormBase_imported	gene	3176848	3183365	.	-	.	ID=gene:EmuJ_000767700;Name=EmuJ_000767700;biotype=protein_coding;description=D-aminoacyl-tRNA deacylase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YCQ2
+pathogen_EmW_scaffold_01	WormBase_imported	gene	3186550	3213254	.	-	.	ID=gene:EmuJ_000767800;Name=EmuJ_000767800;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	40853261	40869453	.	+	.	ID=gene:HmN_000402020;Name=HmN_000402020;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	40872262	40878120	.	+	.	ID=gene:HmN_000402040;Name=HmN_000402040;biotype=protein_coding;description=D-aminoacyl-tRNA deacylase;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XMJ3
+HMN_01_pilon	WormBase_imported	gene	40885338	40888154	.	+	.	ID=gene:HmN_000402200;Name=HmN_000402200;biotype=protein_coding
+
+SM_V7_5	WormBase_imported	gene	10518832	10546076	.	+	.	ID=gene:Smp_150560;Name=Smp_150560;biotype=protein_coding
+SM_V7_5	WormBase_imported	gene	10559692	10566136	.	+	.	ID=gene:Smp_053040;Name=Smp_053040;biotype=protein_coding;description=Snf7-related;description_source=UniProtKB/TrEMBL;description_source_acc=G4VK08
+SM_V7_5	WormBase_imported	gene	10572632	10578714	.	+	.	ID=gene:Smp_053030;Name=Smp_053030;biotype=protein_coding
+pathogen_EmW_scaffold_08	WormBase_imported	gene	5190763	5206108	.	-	.	ID=gene:EmuJ_000096100;Name=EmuJ_000096100;biotype=protein_coding;description=XK-related protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VYK4
+pathogen_EmW_scaffold_08	WormBase_imported	gene	5206953	5209946	.	-	.	ID=gene:EmuJ_000096000;Name=EmuJ_000096000;biotype=protein_coding;description=Charged multivesicular body protein 6;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VY14
+pathogen_EmW_scaffold_08	WormBase_imported	gene	5210538	5216398	.	+	.	ID=gene:EmuJ_000095900;Name=EmuJ_000095900;biotype=protein_coding;description=Lysine specific histone demethylase 1A;description_source=UniProtKB/TrEMBL;description_source_acc=A0A087VY39
+HMN_01_pilon	WormBase_imported	gene	6280669	6296024	.	-	.	ID=gene:HmN_003001500;Name=HmN_003001500;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	6296520	6297526	.	+	.	ID=gene:HmN_000641800;Name=HmN_000641800;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	6297679	6299063	.	+	.	ID=gene:HmN_000641700;Name=HmN_000641700;biotype=protein_coding;description=Vacuolar protein sorting associated protein 36;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X109
+
+SM_V7_4	WormBase_imported	gene	30454591	30466333	.	+	.	ID=gene:Smp_212740;Name=Smp_212740;biotype=protein_coding;description=Mothers against decapentaplegic homolog;description_source=UniProtKB/TrEMBL;description_source_acc=A4VC64
+SM_V7_4	WormBase_imported	gene	30492571	30582422	.	+	.	ID=gene:Smp_337220;Name=Smp_337220;biotype=protein_coding
+SM_V7_4	WormBase_imported	gene	30586731	30594375	.	+	.	ID=gene:Smp_070860;Name=Smp_070860;biotype=protein_coding
+SM_V7_4	WormBase_imported	gene	30594395	30607077	.	-	.	ID=gene:Smp_341800;Name=Smp_341800;biotype=protein_coding
+pathogen_EmW_scaffold_01	WormBase_imported	gene	13655559	13656924	.	+	.	ID=gene:EmuJ_000893000;Name=EmuJ_000893000;biotype=protein_coding;description=Ras suppressor protein 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y9R5
+pathogen_EmW_scaffold_01	WormBase_imported	gene	13658732	13663062	.	-	.	ID=gene:EmuJ_000893100;Name=EmuJ_000893100;biotype=protein_coding;description=Malate dehydrogenase 1b;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YDB2
+pathogen_EmW_scaffold_01	WormBase_imported	gene	13664953	13696482	.	+	.	ID=gene:EmuJ_000893200;Name=EmuJ_000893200;biotype=protein_coding;description=Dynein heavy chain;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y923
+pathogen_EmW_scaffold_01	WormBase_imported	gene	13698585	13699986	.	-	.	ID=gene:EmuJ_000893400;Name=EmuJ_000893400;biotype=protein_coding;description=Mothers against decapentaplegic homolog;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YG23
+HMN_01_pilon	WormBase_imported	gene	14825572	14826843	.	+	.	ID=gene:HmN_000026900;Name=HmN_000026900;biotype=protein_coding;description=Mothers against decapentaplegic homolog;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X942
+HMN_01_pilon	WormBase_imported	gene	14828131	14852819	.	-	.	ID=gene:HmN_003004250;Name=HmN_003004250;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	14858340	14861260	.	+	.	ID=gene:HmN_000026700;Name=HmN_000026700;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	14862017	14863090	.	-	.	ID=gene:HmN_000026600;Name=HmN_000026600;biotype=protein_coding
+
+SM_V7_1	WormBase_imported	gene	5152213	5161840	.	+	.	ID=gene:Smp_077980;Name=Smp_077980;biotype=protein_coding
+SM_V7_1	WormBase_imported	gene	5180613	5205654	.	+	.	ID=gene:Smp_164210;Name=Smp_164210;biotype=protein_coding
+SM_V7_1	WormBase_imported	gene	5207254	5227586	.	+	.	ID=gene:Smp_168930;Name=Smp_168930;biotype=protein_coding;description=Putative golgin-84;description_source=UniProtKB/TrEMBL;description_source_acc=G4V875
+pathogen_EmW_scaffold_07	WormBase_imported	gene	6846498	6849277	.	+	.	ID=gene:EmuJ_000412100;Name=EmuJ_000412100;biotype=protein_coding;description=Neuroendocrine convertase 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y3B4
+pathogen_EmW_scaffold_07	WormBase_imported	gene	6850193	6854199	.	+	.	ID=gene:EmuJ_000412200;Name=EmuJ_000412200;biotype=protein_coding;description=Synaptosomal associated protein;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y418
+pathogen_EmW_scaffold_07	WormBase_imported	gene	6854411	6861621	.	+	.	ID=gene:EmuJ_000412250;Name=EmuJ_000412250;biotype=protein_coding;description=Golgin subfamily A;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XXH3
+HMN_05_pilon	WormBase_imported	gene	1321820	1329095	.	-	.	ID=gene:HmN_000583200;Name=HmN_000583200;biotype=protein_coding
+HMN_05_pilon	WormBase_imported	gene	1329395	1335681	.	-	.	ID=gene:HmN_003038440;Name=HmN_003038440;biotype=protein_coding
+HMN_05_pilon	WormBase_imported	gene	1339627	1342670	.	-	.	ID=gene:HmN_000583100;Name=HmN_000583100;biotype=protein_coding;description=Neuroendocrine convertase 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XWQ2
+
+SM_V7_ZW	WormBase_imported	gene	31151383	31164658	.	+	.	ID=gene:Smp_165540;Name=Smp_165540;biotype=protein_coding
+SM_V7_ZW	WormBase_imported	gene	31164733	31180927	.	+	.	ID=gene:Smp_080520;Name=Smp_080520;biotype=protein_coding
+SM_V7_ZW	WormBase_imported	gene	31183964	31188099	.	-	.	ID=gene:Smp_080530;Name=Smp_080530;biotype=protein_coding;description=Putative replication protein A;description_source=UniProtKB/TrEMBL;description_source_acc=G4VRN3
+pathogen_EmW_scaffold_05	WormBase_imported	gene	3900917	3903136	.	+	.	ID=gene:EmuJ_000604500;Name=EmuJ_000604500;biotype=protein_coding;description=STIP1 y and U box containing protein 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y8H3
+pathogen_EmW_scaffold_05	WormBase_imported	gene	3903626	3906423	.	+	.	ID=gene:EmuJ_000604600;Name=EmuJ_000604600;biotype=protein_coding;description=Transcriptional activator;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y8U7
+pathogen_EmW_scaffold_05	WormBase_imported	gene	3906551	3909020	.	-	.	ID=gene:EmuJ_000604700;Name=EmuJ_000604700;biotype=protein_coding;description=Replication protein A 32 kDa subunit;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y274
+HMN_05_pilon	WormBase_imported	gene	20347697	20349316	.	+	.	ID=gene:HmN_000009100;Name=HmN_000009100;biotype=protein_coding;description=STIP1 y and U box containing protein 1;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X3E9
+HMN_05_pilon	WormBase_imported	gene	20349513	20355494	.	+	.	ID=gene:HmN_000009200;Name=HmN_000009200;biotype=protein_coding;description=Transcriptional activator;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068WYR4
+HMN_05_pilon	WormBase_imported	gene	20355671	20356452	.	-	.	ID=gene:HmN_000009300;Name=HmN_000009300;biotype=protein_coding;description=Replication protein A 32 kDa subunit;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068X5N6
+
+SM_V7_4	WormBase_imported	gene	1910867	2008723	.	+	.	ID=gene:Smp_169430;Name=Smp_169430;biotype=protein_coding
+SM_V7_4	WormBase_imported	gene	2010297	2024770	.	-	.	ID=gene:Smp_086960;Name=Smp_086960;biotype=protein_coding
+SM_V7_4	WormBase_imported	gene	2043411	2044213	.	-	.	ID=gene:Smp_169440;Name=Smp_169440;biotype=protein_coding;description=RAD6;description_source=UniProtKB/TrEMBL;description_source_acc=Q2MK71
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8932028	8944360	.	+	.	ID=gene:EmuJ_000833800;Name=EmuJ_000833800;biotype=protein_coding;description=Partitioning defective 3;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y873
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8945086	8947993	.	-	.	ID=gene:EmuJ_000833900;Name=EmuJ_000833900;biotype=protein_coding;description=Lipoyltransferase 1 mitochondrial;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YBT5
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8949055	8949516	.	-	.	ID=gene:EmuJ_000834100;Name=EmuJ_000834100;biotype=protein_coding;description=Ubiquitin conjugating enzyme rad6;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YEG3
+HMN_01_pilon	WormBase_imported	gene	22656219	22676411	.	+	.	ID=gene:HmN_001008100;Name=HmN_001008100;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	22676831	22685776	.	-	.	ID=gene:HmN_003005160;Name=HmN_003005160;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	22686588	22689365	.	-	.	ID=gene:HmN_003005170;Name=HmN_003005170;biotype=protein_coding
+
+SM_V7_2	WormBase_imported	gene	14149764	14194316	.	-	.	ID=gene:Smp_213100;Name=Smp_213100;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	14194411	14211566	.	-	.	ID=gene:Smp_213110;Name=Smp_213110;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	14211670	14219270	.	+	.	ID=gene:Smp_143560;Name=Smp_143560;biotype=protein_coding
+pathogen_EmW_scaffold_01	WormBase_imported	gene	11940427	11946367	.	+	.	ID=gene:EmuJ_000874400;Name=EmuJ_000874400;biotype=protein_coding;description=Zinc finger MYND domain containing protein 11;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YFX8
+pathogen_EmW_scaffold_01	WormBase_imported	gene	11947905	11954117	.	+	.	ID=gene:EmuJ_000874500;Name=EmuJ_000874500;biotype=protein_coding;description=Oligomeric Golgi complex subunit 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y9C8
+pathogen_EmW_scaffold_01	WormBase_imported	gene	11956322	11957639	.	+	.	ID=gene:EmuJ_000874800;Name=EmuJ_000874800;biotype=protein_coding;description=E3 ubiquitin protein ligase RNF146;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y8L9
+HMN_01_pilon	WormBase_imported	gene	19787141	19788664	.	-	.	ID=gene:HmN_000482800;Name=HmN_000482800;biotype=protein_coding;description=E3 ubiquitin protein ligase RNF146;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XKW7
+HMN_01_pilon	WormBase_imported	gene	19790102	19806600	.	-	.	ID=gene:HmN_000482600;Name=HmN_000482600;biotype=protein_coding;description=Oligomeric Golgi complex subunit 2;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XLB6
+HMN_01_pilon	WormBase_imported	gene	19806984	19816303	.	-	.	ID=gene:HmN_000482500;Name=HmN_000482500;biotype=protein_coding;description=Zinc finger MYND domain containing protein 11;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068XSU4
+
+SM_V7_2	WormBase_imported	gene	12991550	13034785	.	+	.	ID=gene:Smp_146080;Name=Smp_146080;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	13045820	13088036	.	-	.	ID=gene:Smp_208000;Name=Smp_208000;biotype=protein_coding
+SM_V7_2	WormBase_imported	gene	13088504	13091190	.	-	.	ID=gene:Smp_208010;Name=Smp_208010;biotype=protein_coding;description=Putative rab geranylgeranyl transferase alpha subunit;description_source=UniProtKB/TrEMBL;description_source_acc=G4VDB2
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8799101	8800942	.	+	.	ID=gene:EmuJ_000832400;Name=EmuJ_000832400;biotype=protein_coding;description=Geranylgeranyl transferase type 2 subunit alpha;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068Y7H0
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8801910	8815576	.	+	.	ID=gene:EmuJ_000832500;Name=EmuJ_000832500;biotype=protein_coding;description=Dna polymerase kappa;description_source=UniProtKB/TrEMBL;description_source_acc=A0A068YEE8
+pathogen_EmW_scaffold_01	WormBase_imported	gene	8815885	8824275	.	-	.	ID=gene:EmuJ_000832600;Name=EmuJ_000832600;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	22862444	22874271	.	+	.	ID=gene:HmN_003005200;Name=HmN_003005200;biotype=protein_coding
+HMN_01_pilon	WormBase_imported	gene	22874547	22898821	.	-	.	ID=gene:HmN_003005210;Name=HmN_003005210;biotype=protein_coding;description=Dna polymerase kappa;description_source=UniProtKB/TrEMBL;description_source_acc=U6H721
+HMN_01_pilon	WormBase_imported	gene	22899386	22901206	.	-	.	ID=gene:HmN_003005220;Name=HmN_003005220;biotype=protein_coding;description=Geranylgeranyl transferase type 2 subunit alpha;description_source=UniProtKB/TrEMBL;description_source_acc=U6H7E0
+
