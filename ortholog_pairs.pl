@@ -12,21 +12,24 @@ my $genes_2 = read_gff($gff_2);
 my $orthologs = read_orthologs($orthologs_tsv);
 my @pairs = sort keys %{$orthologs};
 
-P:
-for my $p (@pairs) {
-  Q:
-  for my $q (@pairs) {
-     next P if $p eq $q;
+Q:
+for my $q (@pairs) {
+  P:
+  for my $p (@pairs) {
+     next Q if $p eq $q;
      my ($p1, $p2) = split "\t", $p;
      my ($q1, $q2) = split "\t", $q;
      
      my ($in_distance_1, $out_distance_1) = in_out_distances($genes_1->{$p1}, $genes_1->{$q1});
      my $distance_measure_1 = ($in_distance_1 eq "Inf" or $out_distance_1 eq "Inf") ? 0 : 1 - $in_distance_1/$out_distance_1;
+     next if $distance_measure_1 < 0.5; #Max allowed distance between the genes is the sum of their lengths
      my ($in_distance_2, $out_distance_2) = in_out_distances($genes_2->{$p2}, $genes_2->{$q2});
      my $distance_measure_2 = ($in_distance_2 eq "Inf" or $out_distance_2 eq "Inf") ? 0 : 1 - $in_distance_2/$out_distance_2;
+     next if $distance_measure_2 < 0.5; #Max allowed distance between the genes is the sum of their lengths
      my $score_distances = $distance_measure_1 * $distance_measure_2;
-     next if $score_distances == 0;
-     my $strands_preserved = ($genes_1->{$p1}{strand} eq $genes_1->{$q1}{strand} ) == ($genes_2->{$p2}{strand} eq $genes_2->{$q2}{strand} );
+     my $strands = join ("", $genes_1->{$p1}{strand}, $genes_1->{$q1}{strand}, $genes_2->{$p2}{strand}, $genes_2->{$q2}{strand});
+     my $strands_preserved = grep {$_ eq $strands} qw/---- ++++ -+-+ +-+- --++ ++--/;
+     # next unless $strands_preserved;
      my ($p_score1, $p_score2) = @{$orthologs->{$p}};
      my ($q_score1, $q_score2) = @{$orthologs->{$q}};
      
@@ -40,7 +43,7 @@ for my $p (@pairs) {
         $in_distance_2, $out_distance_2, $distance_measure_2,
         $score_distances, 
         $p_score1, $q_score1, $p_score2, $q_score2,
-        $strands_preserved,
+        $strands,
         $score_log_and_shifted,
      );
   }
