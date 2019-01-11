@@ -1,0 +1,14 @@
+   429 schistosoma_mansoni-echinococcus_multilocularis.ortholog_pairs.1-1.out.sorted
+   884 schistosoma_mansoni-fasciola_liverpool.ortholog_pairs.1-1.out.sorted # More than for the three tapeworms - this is a (liver) fluke
+   311 schistosoma_mansoni-hymenolepis_microstoma.ortholog_pairs.1-1.out.sorted
+   257 schistosoma_mansoni-taenia_multiceps.ortholog_pairs.1-1.out.sorted
+schistosoma_mansoni-fasciola_liverpool-echinococcus_multilocularis 160
+schistosoma_mansoni-hymenolepis_microstoma-echinococcus_multilocularis 269
+schistosoma_mansoni-taenia_multiceps-echinococcus_multilocularis 229
+schistosoma_mansoni-hymenolepis_microstoma-fasciola_liverpool 115
+schistosoma_mansoni-taenia_multiceps-hymenolepis_microstoma 174
+no taenia 105
+no hymenolepis 95
+no fasciola 163
+no emu 72
+all four  68
