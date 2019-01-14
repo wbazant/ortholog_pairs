@@ -7,6 +7,7 @@ schistosoma_mansoni-hymenolepis_microstoma-echinococcus_multilocularis 269
 schistosoma_mansoni-taenia_multiceps-echinococcus_multilocularis 229
 schistosoma_mansoni-hymenolepis_microstoma-fasciola_liverpool 115
 schistosoma_mansoni-taenia_multiceps-hymenolepis_microstoma 174
+schistosoma_mansoni-taenia_multiceps-fasciola_liverpool 102
 no taenia 105
 no hymenolepis 95
 no fasciola 163
