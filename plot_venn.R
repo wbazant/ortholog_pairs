@@ -1,4 +1,5 @@
 library(UpSetR)
+# These are still not the right numbers, because the totals are wrong. If you analyse this ,count the pairs again!
 expressionInput <- c(E.multilocularis=429-(60-37-27)-(269-37-95)-(229-27-95),
                      F.hepatica=884-(160-37-27)-(115-37-4)-(102-27-4),
                      H.microstoma=311-(269-37-95)-(115-37-4)-(174-95-4),
