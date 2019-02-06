@@ -1,6 +1,9 @@
 ## Ortholog pairs
 
-*Scoring pairs of orthologs based on synteny to try find conserved regions*
+*Finding genes next to each other whose orthologs are also next to each other*
+
+### Method
+The script takes two GFF3s and a list of orthologs and their scores. Then it extracts the positions of genes and strength of ortholog matches, assembles the information into a score for each two ortholog pairs, and applies an ad-hoc cutoff.
 
 ### Usage
 
