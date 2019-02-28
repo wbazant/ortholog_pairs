@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/164920871.svg)](https://zenodo.org/badge/latestdoi/164920871)
+
 ## Ortholog pairs
 
 *Finding genes next to each other whose orthologs are also next to each other*
